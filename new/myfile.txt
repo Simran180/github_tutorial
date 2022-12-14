@@ -1,0 +1,2 @@
+this is a to show that git will ignore the dir/ directory wherever it is
+changing
